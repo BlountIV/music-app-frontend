@@ -47,11 +47,6 @@ Honestly not at all finished. Will eventually come back to this at some point to
 ## Disclaimer
 I am not affiliated with nor own any rights regarding this store app's pricing, inventory or image url source. No profits were generated from this project. All materials utilized were for educational and demonstration purposes only.
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
